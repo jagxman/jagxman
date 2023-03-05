@@ -5,7 +5,8 @@
   <h1 align="center"><b>Hello there, I'm Jag 👋</b></h1>
 </p>
 
-![GitHub](https://komarev.com/ghpvc/?username=JagMan177&style=plastic)
+![GitHub](https://komarev.com/ghpvc/?username=
+&style=plastic)
 
 <br>
 
@@ -41,9 +42,9 @@
 ---
 ### 🔴 My GitHub Stats
 
-  <1--<img align="left" src="https://github-readme-stats.vercel.app/api?username=JagMan177&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Jag's Github Stats">
+  <1--<img align="left" src="https://github-readme-stats.vercel.app/api?username=jagxman&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Jag's Github Stats">
 
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JagMan177&show_icons=true&hide_border=true&theme=radical">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagxman&show_icons=true&hide_border=true&theme=radical">
   
 
 
