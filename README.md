@@ -16,7 +16,7 @@
 - 🔭 I’m currently working on automation.
 - 🌱 I’m currently learning C#.
 - 👯 I’m looking to collaborate with other Developers :wink:
-- 🥅 2022 Goals: Excel in my path of Web development.
+- 🥅 2023 Goals: Excel in my path of Web development.
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: [Linkedin](https://www.linkedin.com/in/jagjit-mangar-5196a7204/)
 
