@@ -5,8 +5,7 @@
   <h1 align="center"><b>Hello there, I'm Jag 👋</b></h1>
 </p>
 
-![GitHub](https://komarev.com/ghpvc/?username=
-&style=plastic)
+![GitHub](https://komarev.com/ghpvc/?username=jagxman&style=plastic)
 
 <br>
 
