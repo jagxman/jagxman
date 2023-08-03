@@ -11,10 +11,9 @@
 
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-### I am a Developer
+### Software Engineer
 - 🔭 I’m currently working on automation.
-- 🌱 I’m currently learning C#.
-- 👯 I’m looking to collaborate with other Developers :wink:
+- 🌱 I’m currently learning NEXT JS.
 - 🥅 2023 Goals: Excel in my path of Web development.
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: [Linkedin](https://www.linkedin.com/in/jagjit-mangar-5196a7204/)
@@ -54,7 +53,7 @@
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-UI/UX Design with Figma
+Web Request Automation.
 ```
 <!--END_SECTION:waka-->
 
