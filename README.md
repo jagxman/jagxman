@@ -37,11 +37,6 @@
 <br>
 <br>
 
----
-
-</br></br></br></br></br></br></br></br></br>
-
----
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
@@ -55,4 +50,4 @@ Web Request Automation.
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 </div><img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
 
-#### Thank You 🙏🏼
+#### Appreciate you,
