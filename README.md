@@ -13,9 +13,9 @@
 
 ### Software Engineer
 - 🔭 I’m currently working on automation.
-- 🌱 I’m currently learning NEXT JS.
+- 🌱 I’m currently learning Front-end Frameworks.
 - 🥅 2023 Goals: Excel in my path of Web development.
-- 💬 Ask me about anything, I am happy to help :smile:
+- 💬 Ask me about anything.
 - 📬 How to reach me: [Linkedin](https://www.linkedin.com/in/jagjit-mangar-5196a7204/)
 
 <br>
