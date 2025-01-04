@@ -14,7 +14,7 @@
 ### Software Engineer
 - 🔭 I’m currently working on automation.
 - 🌱 I’m currently learning Front-end Frameworks.
-- 🥅 2024 Goals: Excel in my path of Web development.
+- 🥅 2025 Goals: Excel in my path of AI training.
 - 💬 Ask me about anything.
 - 📬 How to reach me: [Linkedin](https://www.linkedin.com/in/jagjit-mangar-5196a7204/)
 
